@@ -4,9 +4,9 @@
   </a>
 </div>
 <h1 align="center">Hi 👋, I'm Smit Shah</h1>
-<h3 align="center">an aspiring software engineer hailing from India. With a solid year background in web design and development, I've honed my skills in crafting websites and web applications that are not only functional but also visually captivating. # Over the past year, I've expanded my expertise into Discord bot development.
+<h3 align="center">an aspiring software engineer hailing from India. With a solid year background in web design and development, I've honed my skills in crafting websites and web applications that are not only functional but also visually captivating.
 
-I take pride in my professional approach, having collaborated with some of the most famous brands to create user-friendly and attractive digital experiences. My mission is to infuse each project with a unique personal touch, ensuring it stands out and is easy to navigate.
+I having collaborated with some of the most famous brands to create user-friendly and attractive digital experiences. My mission is to infuse each project with a unique personal touch, ensuring it stands out and is easy to navigate.
 
 Let me help you bring your vision to life in the most creative and impactful way!</h3>
 
