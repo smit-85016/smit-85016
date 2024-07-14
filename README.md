@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Smit Shah</h1>
 <h3 align="center">I`m Aspiring Software Engineer from India. I have been working in the field of web design and development for years. I have a lot of experience in creating websites and web applications. I have also been working as a Discord bot developer for year. I have a professional approach to work and I am always ready to help you with your project. My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smit-85016&label=Profile%20views&color=0e75b6&style=flat" alt="smit-85016" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smit-85016" alt="smit-85016" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
