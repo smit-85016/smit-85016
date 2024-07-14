@@ -1,4 +1,4 @@
-[![MasterHead]([![MasterHead](https://i.pinimg.com/originals/4e/af/b9/4eafb9d14230b57193f327316c0760d1.gif)]
+[![MasterHead](https://i.pinimg.com/originals/4e/af/b9/4eafb9d14230b57193f327316c0760d1.gif)]
 <h1 align="center">Hi 👋, I'm Smit Shah</h1>
 <h3 align="center">I`m Aspiring Software Engineer from India. I have been working in the field of web design and development for 2 years. I have a lot of experience in creating websites and web applications. I have also been working as a Discord bot developer for 1 year. I have a professional approach to work and I am always ready to help you with your project. My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.</h3>
 
