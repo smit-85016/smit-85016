@@ -14,7 +14,7 @@ Let me help you bring your vision to life in the most creative and impactful way
 
 <p align="left"> <a href="https://twitter.com/smit_33" target="blank"><img src="https://img.shields.io/twitter/follow/smit_33?logo=twitter&style=for-the-badge" alt="smit_33" /></a> </p>
 
-- 🌱 I’m currently learning **React, pyhton, etc.**
+- 🌱 I’m currently learning **Python, React, etc.**
 
 - 👨‍💻 All of my projects are available at [https://smitshah.vercel.app/](https://smitshah.vercel.app/)
 
