@@ -8,10 +8,6 @@
 
 I having collaborated with some of the most famous brands to create user-friendly and attractive digital experiences. My mission is to infuse each project with a unique personal touch, ensuring it stands out and is easy to navigate.
 
-Let me help you bring your vision to life in the most creative and impactful way!</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smit-85016" alt="smit-85016" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/smit_33" target="blank"><img src="https://img.shields.io/twitter/follow/smit_33?logo=twitter&style=for-the-badge" alt="smit_33" /></a> </p>
 
 - 🌱 I’m currently learning **Python, React, etc.**
