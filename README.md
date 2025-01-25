@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://smitshah.vercel.app/">
-    <img src="https://drive.google.com/file/d/1w2S7YxukRoAUUtxXC8HPkXnUEers-FSN/view?usp=drive_link" alt="MasterHead">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fgithub-character&psig=AOvVaw3MqgLaMHLs5lTFUtG-g28p&ust=1737877355870000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjv3-ivkIsDFQAAAAAdAAAAABAE" alt="MasterHead">
   </a>
 </div>
 <h1 align="center">Hi 👋, I'm Smit Shah</h1>
