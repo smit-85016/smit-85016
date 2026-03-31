@@ -1,8 +1,4 @@
-<div align="center">
-  <a href="https://smitshah.vercel.app/">
-    <img src="https://i.pinimg.com/originals/4e/af/b9/4eafb9d14230b57193f327316c0760d1.gif" alt="MasterHead">
-  </a>
-</div>
+
 <h1 align="center">Hi 👋, I'm Smit Shah</h1>
 <h3 align="center">an aspiring software engineer hailing from India. With a solid year background in web design and development, I've honed my skills in crafting websites and web applications that are not only functional but also visually captivating.
 
